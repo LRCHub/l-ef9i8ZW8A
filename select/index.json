@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "雲外憧憬 (TV size)",
+  "base_artist": "FantasticYouth",
+  "createdAt": "2026-02-17T02:32:09.950150Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雲外憧憬 - TV size",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/01_雲外憧憬_-_TV_size_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雲外憧憬",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/02_雲外憧憬_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雲外憧憬",
+      "artist": "FantasticYouth",
+      "has_synced": false,
+      "path": "select/03_雲外憧憬_FantasticYouth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雲外憧憬 - English ver.",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/04_雲外憧憬_-_English_ver._FantasticYouth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雲外憧憬",
+      "artist": "Fantastic Youth",
+      "has_synced": false,
+      "path": "select/pl_01_雲外憧憬_Fantastic_Youth.txt"
+    }
+  ]
+}
